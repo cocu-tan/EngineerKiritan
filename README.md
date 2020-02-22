@@ -1,5 +1,5 @@
 # EngineerKiritan Document Repository
-This repository is for storing documents of the Factorio gameplay series, [`えんじにぁきりたん`](https://www.nicovideo.jp/series/93078).
+This repository is for storing documents of Factorio gameplay series, [`えんじにぁきりたん`](https://www.nicovideo.jp/series/93078).
 
 このレポジトリは、Factorioプレイ動画 [`えんじにぁきりたん`](https://www.nicovideo.jp/series/93078) のドキュメントを保管しておく場所だよ。
 
