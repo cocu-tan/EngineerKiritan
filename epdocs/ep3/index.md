@@ -1,4 +1,4 @@
-# EpDocs: Ep3. Railway Macroservice Architecture
+# EpDocs: Ep3. Railway Microservice Architecture
 ## Fast iteration is important
 - Factorioは工場を作って作り直して作り直して作り直すゲーム
   - "作り直したくない"って思わないように設計しよう。
