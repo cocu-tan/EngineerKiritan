@@ -12,4 +12,4 @@ Supplemental document for each episode.
 - Ep2. When Main Bus Wins
     - [video](https://www.nicovideo.jp/watch/sm36338714), [doc](epdocs/ep2/index.md)
 - Ep3. Railway Microservice Architecture
-    - video, [doc](epdocs/ep3/index.md)
+    - [video](https://www.nicovideo.jp/watch/sm36404216), [doc](epdocs/ep3/index.md)
