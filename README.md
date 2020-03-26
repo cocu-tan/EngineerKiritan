@@ -13,3 +13,5 @@ Supplemental document for each episode.
     - [video](https://www.nicovideo.jp/watch/sm36338714), [doc](epdocs/ep2/index.md)
 - Ep3. Railway Microservice Architecture
     - [video](https://www.nicovideo.jp/watch/sm36404216), [doc](epdocs/ep3/index.md)
+- Ep4. 鉄道IO汎用工場
+    - [video](https://www.nicovideo.jp/watch/XXX), [doc](epdocs/ep4/index.md)
